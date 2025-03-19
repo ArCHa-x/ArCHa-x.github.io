@@ -7,5 +7,10 @@ The data used in this project mainly include astronomical observation data from 
 
 I chose this dataset because I am interested in the formation process and nebular evolution, especially the amazing landscape of the Pillars of Creation. A famous article that I recommend in my literature review is [_Chronology of star formation and disk evolution in the Eagle Nebula_](https://www.aanda.org/articles/aa/abs/2010/13/aa14351-10/aa14351-10.html).  by Guarcello et al. (2010). This study provides an in-depth analysis of the stellar feedback mechanism, which greatly enhances my understanding of nebular dynamics and the evolution of structures of the Pillars of Creation.
 
+****
+
+### References
+Guarcello, M. G., Micela, G., Peres, G., Prisinzano, L., and Sciortino, S.(2010). Chronology of star formation and disk evolution in the Eagle Nebula. Astronomy & Astrophysics, 521:A61. Publisher: EDP Sciences.
+
 ----
 ****
