@@ -10,7 +10,7 @@ Astronomy and Physics
 
 York university, Keele Campus
 
-![an image alt text]({{ site.baseurl }}/images/yorku.jpg "an image title")
+[cheese pizza](images/yorku.jpg)
 ### Contact me
 
 [xuexl1@my.yorku.ca](mailto:xuexl1@my.yorku.ca)
