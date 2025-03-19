@@ -5,7 +5,9 @@ permalink: /about/
 ---
 
 Xiaolong Xue
+
 Astronomy and Physics
+
 York university, Keele Campus
 
 ### Contact me
