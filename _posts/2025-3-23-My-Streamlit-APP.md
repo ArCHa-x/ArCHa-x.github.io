@@ -17,12 +17,6 @@ You can run the app locally or view the code and download the visualization repo
 
 ---
 
-### 🔗 Live Code & Resources
-
-- 📁 **Source Code:** [View on GitHub](https://github.com/your-username/gaia-pillars-streamlit)  
-- 📄 **PDF Snapshot:** [Download Report](assets/pdf/pillars-of-creation-gaia-dr3.pdf)  
-- 💻 **Run Locally:**  
-  ```bash
-  git clone https://github.com/your-username/gaia-pillars-streamlit.git
-  cd gaia-pillars-streamlit
-  streamlit run app.py
+### Live Code & Resources
+- **Source Code:** [View on GitHub](https://github.com/ArCHa-x/Phys3130_XL/blob/main/Quiz5_Dashboard_Xiaolong%20Xue.ipynb)  
+- **PDF Snapshot:** [Download Report](assets/pdf/pillars-of-creation-gaia-dr3.pdf)  
