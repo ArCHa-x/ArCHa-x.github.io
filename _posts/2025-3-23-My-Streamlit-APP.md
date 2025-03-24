@@ -4,9 +4,9 @@ date: 2025-03-23
 layout: post
 ---
 
-**Explore the stars of the Pillars of Creation using real data from the Gaia DR3 catalog!**
+**Explore the stars of the Eagle Nebula using Gaia DR3 catalog!**
 
-This interactive web app was built using **Python**, **Streamlit**, and **Plotly/Seaborn** to visualize data from the iconic _Eagle Nebula_ region. The app includes:
+This web APP was built using **Python**, **Streamlit**, and **Plotly/Seaborn** to visualize data from the _Eagle Nebula_ region. The APP includes:
 
 - An interactive **Sky Map** of star positions  
 - A **HR Diagram**
